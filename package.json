@@ -1,5 +1,5 @@
 {
-  "name": "learn-react",
+  "name": "proj",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,7 @@
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
+    "git": "^0.1.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "superagent": "^6.0.0"
